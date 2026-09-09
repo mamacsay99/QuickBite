@@ -6,6 +6,10 @@ public class Main {
         itemName: data type for this array is double
         itemPrices: data type for this array is boolean
          */
+        // Initialize your scanner abj
+         Scanner in = new Scanner(System.in);
+
+
         String[] itemName ={"pizza","shawarma","burger",};
         double[] itemPrices ={3.57,2.88,7.00};
         double[] itemAvailable ={true, true, false }https://github.com/mamacsay99/Java2.git;
